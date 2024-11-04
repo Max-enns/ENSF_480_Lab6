@@ -1,5 +1,5 @@
 /*
-* File Name: Decorator.java
+* File Name: Componenet.java
 * Assignment: Lab 6 Exercise A and B
 * Lab Section: B01
 * Completed by: Max Enns
